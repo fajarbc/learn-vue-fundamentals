@@ -1,5 +1,6 @@
 # learn-vue-fundamentals
-Learn Vue 3 Fundamentals
+Learn Vue 3 Fundamentals.
+DEMO: [Shopping List App](http://github.fajarbc.com/learn-vue-fundamentals/)
 
 - Introduction to two-way data binding
 - Template syntax and expressions
